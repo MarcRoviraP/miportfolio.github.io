@@ -2,6 +2,9 @@
   "name": "port",
   "type": "module",
   "version": "0.0.1",
+  "astro": {
+    "output": "./dist"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
